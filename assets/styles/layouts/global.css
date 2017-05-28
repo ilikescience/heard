@@ -8,3 +8,8 @@ html {
 *::after {
     box-sizing: inherit;
 }
+
+.sessions {
+    display: grid;
+    padding: 2rem;
+}
